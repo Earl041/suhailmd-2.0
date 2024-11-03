@@ -1,5 +1,5 @@
 {
-  "name": "suhail-whatsapp-bot@1.0.1",
+  "name": "Earll-whatsapp-bot@1.0.1",
   "description": "I am Suhail-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
  "logo":"https://telegra.ph/file/9dcef2b49909742db8dbd.jpg",
  
@@ -11,7 +11,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail-X",
+      "value": "Earl-X",
       "required" :true
     },   
      
@@ -95,7 +95,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Earl",
       "required": false 
     },
     "PACK_AUTHER": {
